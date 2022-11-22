@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauchlynDowns
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react and JQuery
+- 🌱 I’m currently learning Laravel and React
 - 📫 How to reach me ... email: LAUCHLYN101@gmail.com
 - My website ... https://lauchlyn.com
 
